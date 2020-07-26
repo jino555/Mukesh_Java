@@ -1,4 +1,4 @@
-package defaultpackage2;
+package Package2;
 
 public class ExceptionHandling {
 
